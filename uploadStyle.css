@@ -1,0 +1,62 @@
+body{
+    background-image: url("background.jpeg");
+    background-color: #cccccc;
+}
+.form-control 
+{
+    background-color: transparent !important;
+    
+    padding: 12px 20px !important;
+    margin: 8px 0  !important;
+    
+    
+}
+h2{
+    color: #fff !important;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: x-large;
+}
+ input[type=text] {
+    
+    border: 2px solid black !important;
+  }
+  input[type=password] {
+    
+    border: 2px solid black !important;
+  }
+  input[type=email] {
+    
+    border: 2px solid black !important;
+  }
+  a{
+    color: #fff !important;
+    margin-top: -200px !important;
+    font-size: xx-large;
+    font-weight: bolder;
+} 
+a:link {
+    color: red !important;
+  }
+  
+  
+  a:visited {
+    color: blue !important;
+  }
+  
+  
+  a:hover {
+    color: rgb(105, 145, 255) !important;
+  }
+  
+  
+  a:active {
+    color: rgb(0, 174, 255) !important;
+  }
+  h3{
+    color: #fff !important;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: x-large;
+}
+  

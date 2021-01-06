@@ -1,0 +1,53 @@
+body{
+    background-image: url("background.jpeg");
+    background-color: #cccccc;
+}
+.login-right{
+    background: #fff;
+    padding: 30px;
+}
+.login-left{
+    background: rgba(211, 211, 211, 0.5);
+    padding: 30px;
+}
+.form-control 
+{
+    background-color: transparent !important;
+}
+a{
+    color: #fff !important;
+    margin-top: -200px !important;
+    font-size: large;
+    font-weight: bolder;
+} 
+
+h1{
+    color:#fff !important;
+    margin-top: 200px !important;
+    text-align: center;
+    text-transform: uppercase;
+}
+h2{
+    color: #fff !important;
+    margin-top: 200px !important;
+    text-align: center;
+    text-transform: uppercase;
+}
+a:link {
+    color: red !important;
+  }
+  
+  
+  a:visited {
+    color: blue !important;
+  }
+  
+  
+  a:hover {
+    color: rgb(105, 145, 255) !important;
+  }
+  
+  
+  a:active {
+    color: rgb(0, 174, 255) !important;
+  }
