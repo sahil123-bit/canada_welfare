@@ -1,2 +1,6 @@
 So this is the second file. 
 so i am just making some changes to chekc how to edit files.
+
+So I am using GIT to track all the changes.
+
+So will it find the staging area.
