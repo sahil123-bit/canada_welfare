@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 Hey should I delete this file.
+=======
+So here we go 
+
+In this we will make the changes for shorten title branch.
+
+I am going to merge the short_title branch with the master branch
+>>>>>>> short_title
