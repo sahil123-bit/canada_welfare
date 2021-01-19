@@ -7,3 +7,4 @@ In this we will make the changes for shorten title branch.
 
 I am going to merge the short_title branch with the master branch
 >>>>>>> short_title
+some lines added in the this text file.
