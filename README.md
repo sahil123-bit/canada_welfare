@@ -1,0 +1,3 @@
+# Canada-Welfare
+I had made this Project with PHP, the main motive to make this project was for the welfare of poor people who don't have access of to tell which problem they have faced and they can't reach to government. the government sometimes missed those areas to cover which the people can tell in the website and  i want the government to access this website as I have made Admin Portal for the government 
+**homepage.php** is the starting file for this project, I am not uploading my sql files but you can make the exact database in phpmyadmin by seeing the **Register.php** , **upload.php** and from **comments.php**
